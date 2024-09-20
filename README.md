@@ -36,7 +36,7 @@ git add .
 git commit -m "mensagem"
 
 // enviar o projeto para o repositorio remoto
-git push origin main
+git push -u origin main
 
 
 Questão 2
