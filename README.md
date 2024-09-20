@@ -57,3 +57,6 @@ npm i
 
 // Acessar o projeto pelo visual studio code
 code .
+
+//  Comando para rodar o projeto
+npm run start
